@@ -1,0 +1,6 @@
+table_id,capacity,status,booked_by
+1,4,available,
+2,6,available,
+3,2,booked,John Doe
+4,8,available,
+5,4,available,
